@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:id="@+id/browseItemView">
+
+    <RelativeLayout
+        android:id="@+id/rlBrowseItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp">
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="18dp"
+            android:letterSpacing="0.05"
+            tools:text="Apples"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/large_text_size"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/tvName"
+            android:layout_below="@+id/tvName"
+            android:letterSpacing="0.08"
+            tools:text="Fruit"
+            android:textColor="@color/gray"
+            android:textSize="@dimen/small_text_size" />
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>
