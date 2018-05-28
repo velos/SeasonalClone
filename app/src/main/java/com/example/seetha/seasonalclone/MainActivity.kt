@@ -6,7 +6,6 @@ import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
 import com.example.seetha.seasonalclone.adapters.SeasonalAdapter
 import com.example.seetha.seasonalclone.datasource.getProduceItemsFromJSON
-import com.example.seetha.seasonalclone.models.ProduceItem
 
 import kotterknife.bindView
 

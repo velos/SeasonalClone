@@ -6,7 +6,9 @@ data class ProduceItem(
         @SerializedName("ID") val id: String,
         @SerializedName("Name") val name: String,
         @SerializedName("Type") val type: String,
-        @SerializedName("Description") val description: String
+        @SerializedName("Description") val description: String,
+        @SerializedName("imgURL") val imgURL: String
+
 )
 
 data class ProduceByState(

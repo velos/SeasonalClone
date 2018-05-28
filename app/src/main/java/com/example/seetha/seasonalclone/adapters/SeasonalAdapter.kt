@@ -5,27 +5,23 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import com.example.seetha.seasonalclone.models.ProduceItem
-import com.example.seetha.seasonalclone.util.inflate
-import com.example.seetha.seasonalclone.R
+import views.BrowseItemView
+import android.view.ViewGroup.LayoutParams
 
-class SeasonalAdapter(private var items: List<ProduceItem>) : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
+
+class SeasonalAdapter(private var items: List<ProduceItem>) : RecyclerView.Adapter<SeasonalAdapter.ViewHolder>() {
 
     init {
         notifyDataSetChanged()
     }
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerView.ViewHolder {
-        val view = parent.context.inflate(R.layout.item_produce, parent, false)
-        return ViewHolder(view)
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
+        val itemView = BrowseItemView.inflate(parent)
+        return ViewHolder(itemView)
     }
 
-    override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {
-        val name = items[position].name
-        val type = items[position].type
-
-        val viewHolder = holder as ViewHolder
-        viewHolder.tvName.text = name
-        viewHolder.tvType.text = type
+    override fun onBindViewHolder(holder: ViewHolder, position: Int) {
+        holder.browseItemView.produce = items[position]
 
     }
 
@@ -33,9 +29,8 @@ class SeasonalAdapter(private var items: List<ProduceItem>) : RecyclerView.Adapt
         return items.size
     }
 
-    inner class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-        val tvName: TextView = itemView.findViewById(R.id.tvName)
-        val tvType: TextView = itemView.findViewById(R.id.tvType)
-
+    inner class ViewHolder(v: View) : RecyclerView.ViewHolder(v) {
+        internal val browseItemView: BrowseItemView = v as BrowseItemView
     }
+
 }
