@@ -16,9 +16,9 @@ fun getProduceItemsFromJSON(context: Context): List<ProduceItem> {
     val metadataFile = assetManager.open(SEASONAL_METADATA_JSON)
     val metadata = metadataFile.readBytes().toString(Charset.defaultCharset())
 
-    var stateJSONFile = assetManager.open(SEASONAL_CALIFORNIA_JSON)
-    var stateJSONString = stateJSONFile.readBytes().toString(Charset.defaultCharset())
-    var produceItems = parseJSONFile(metadata, stateJSONString)
+    val stateJSONFile = assetManager.open(SEASONAL_CALIFORNIA_JSON)
+    val stateJSONString = stateJSONFile.readBytes().toString(Charset.defaultCharset())
+    val produceItems = parseJSONFile(metadata, stateJSONString)
 
     return produceItems
 }

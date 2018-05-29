@@ -3,11 +3,8 @@ package com.example.seetha.seasonalclone.adapters
 import android.support.v7.widget.RecyclerView
 import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
 import com.example.seetha.seasonalclone.models.ProduceItem
 import views.BrowseItemView
-import android.view.ViewGroup.LayoutParams
-
 
 class SeasonalAdapter(private var items: List<ProduceItem>) : RecyclerView.Adapter<SeasonalAdapter.ViewHolder>() {
 
