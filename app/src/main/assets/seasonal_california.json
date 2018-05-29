@@ -1,0 +1,2486 @@
+[
+  {
+    "ID": 1000,
+    "Name": "Apples",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1001,
+    "Name": "Apricots",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1002,
+    "Name": "Artichokes",
+    "months": {
+      "January": false,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1003,
+    "Name": "Arugula",
+    "months": {
+      "January": false,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1004,
+    "Name": "Asian Pears",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1005,
+    "Name": "Asparagus",
+    "months": {
+      "January": false,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1006,
+    "Name": "Avocados",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1007,
+    "Name": "Bananas",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1008,
+    "Name": "Basil",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1009,
+    "Name": "Beets",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1010,
+    "Name": "Black Eyed Peas",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1011,
+    "Name": "Blackberries",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1012,
+    "Name": "Blueberries",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1013,
+    "Name": "Bok Choy",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1014,
+    "Name": "Boysenberries",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1015,
+    "Name": "Brambles",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1016,
+    "Name": "Broccoli",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1017,
+    "Name": "Brussels Sprouts",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1018,
+    "Name": "Burdock",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1019,
+    "Name": "Cabbage",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1020,
+    "Name": "Cantaloupe",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1021,
+    "Name": "Cardoons",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1022,
+    "Name": "Carrots",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1023,
+    "Name": "Cauliflower",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1024,
+    "Name": "Celery",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1025,
+    "Name": "Celery Root",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1026,
+    "Name": "Chard",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1027,
+    "Name": "Cherries",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1028,
+    "Name": "Chestnuts",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1029,
+    "Name": "Chickpeas",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": true,
+      "May": true,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1030,
+    "Name": "Chicories",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1031,
+    "Name": "Chili Peppers",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1032,
+    "Name": "Chives",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1033,
+    "Name": "Cilantro",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1034,
+    "Name": "Citrus",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1035,
+    "Name": "Clementines",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": true
+    }
+  },
+  {
+    "ID": 1036,
+    "Name": "Collard Greens",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1037,
+    "Name": "Corn",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1038,
+    "Name": "Cranberries",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1039,
+    "Name": "Cucumbers",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1040,
+    "Name": "Currants",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1041,
+    "Name": "Dates",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1042,
+    "Name": "Edamame",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1043,
+    "Name": "Eggplant",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1044,
+    "Name": "Endive",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1045,
+    "Name": "Fava Beans",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1046,
+    "Name": "Fennel",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1047,
+    "Name": "Fiddleheads",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1048,
+    "Name": "Figs",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1049,
+    "Name": "Garlic",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1050,
+    "Name": "Garlic Scapes",
+    "months": {
+      "January": false,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1051,
+    "Name": "Ginger",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1052,
+    "Name": "Gooseberries",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1053,
+    "Name": "Grapefruit",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1054,
+    "Name": "Grapes",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1055,
+    "Name": "Green Beans",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1056,
+    "Name": "Green Onions",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1057,
+    "Name": "Ground Cherries",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1058,
+    "Name": "Horseradish",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1059,
+    "Name": "Jicama",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1060,
+    "Name": "Kale",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1061,
+    "Name": "Kiwi",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1062,
+    "Name": "Kohlrabi",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": false,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1063,
+    "Name": "Lamb's Quarters",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1064,
+    "Name": "Lavender",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1065,
+    "Name": "Leeks",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1066,
+    "Name": "Lemongrass",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1067,
+    "Name": "Lemons",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1068,
+    "Name": "Lettuce",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1069,
+    "Name": "Lima Beans",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": true,
+      "August": true,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1070,
+    "Name": "Mandarins",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1071,
+    "Name": "Mangoes",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1072,
+    "Name": "Melons",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1073,
+    "Name": "Mint",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1074,
+    "Name": "Morels",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1075,
+    "Name": "Mushrooms",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1076,
+    "Name": "Mustard Greens",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1077,
+    "Name": "Nectarines",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1078,
+    "Name": "Nettles",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1079,
+    "Name": "Nopales",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1080,
+    "Name": "Okra",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1081,
+    "Name": "Olives",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1082,
+    "Name": "Onions",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1083,
+    "Name": "Oranges",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1084,
+    "Name": "Oregano",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1085,
+    "Name": "Papaya",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1086,
+    "Name": "Parsley",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1087,
+    "Name": "Parsnips",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1088,
+    "Name": "Pea Shoots",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1089,
+    "Name": "Peaches",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1090,
+    "Name": "Peanuts",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1091,
+    "Name": "Pears",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1092,
+    "Name": "Peas",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1093,
+    "Name": "Pecans",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1094,
+    "Name": "Peppers",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1095,
+    "Name": "Persimmons",
+    "months": {
+      "January": true,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1096,
+    "Name": "Pineapple",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1097,
+    "Name": "Pistachios",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1098,
+    "Name": "Plums",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1099,
+    "Name": "Pomegranates",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1100,
+    "Name": "Potatoes",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1101,
+    "Name": "Pummelo",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1102,
+    "Name": "Pumpkin",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1103,
+    "Name": "Purslane",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1104,
+    "Name": "Quince",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1105,
+    "Name": "Radicchio",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1106,
+    "Name": "Radishes",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1107,
+    "Name": "Ramps",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1108,
+    "Name": "Rapini",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1109,
+    "Name": "Raspberries",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1110,
+    "Name": "Rhubarb",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1111,
+    "Name": "Rosemary",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1112,
+    "Name": "Rutabaga",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1113,
+    "Name": "Sage",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1114,
+    "Name": "Salsify",
+    "months": {
+      "January": true,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1115,
+    "Name": "Shallots",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1116,
+    "Name": "Shell Beans",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1117,
+    "Name": "Snap Peas",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1118,
+    "Name": "Snow Peas",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1119,
+    "Name": "Sorrel",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1120,
+    "Name": "Spinach",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1121,
+    "Name": "Sprouts",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1122,
+    "Name": "Strawberries",
+    "months": {
+      "January": false,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1123,
+    "Name": "Summer Squash",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1124,
+    "Name": "Sunchokes",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1125,
+    "Name": "Sweet Potatoes",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1126,
+    "Name": "Tangerines",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1127,
+    "Name": "Taro",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1128,
+    "Name": "Tarragon",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1129,
+    "Name": "Thyme",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1130,
+    "Name": "Tomatillos",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1131,
+    "Name": "Tomatoes",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1132,
+    "Name": "Turnips",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": true,
+      "May": true,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1133,
+    "Name": "Watercress",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": false,
+      "May": false,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1134,
+    "Name": "Watermelon",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": true,
+      "August": true,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": false
+    }
+  },
+  {
+    "ID": 1135,
+    "Name": "Winter Squash",
+    "months": {
+      "January": true,
+      "February": true,
+      "March": true,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": true,
+      "October": true,
+      "November": true,
+      "December": true
+    }
+  },
+  {
+    "ID": 1136,
+    "Name": "Yams",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": false,
+      "June": false,
+      "July": false,
+      "August": false,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  },
+  {
+    "ID": 1137,
+    "Name": "Zucchini",
+    "months": {
+      "January": false,
+      "February": false,
+      "March": false,
+      "April": false,
+      "May": true,
+      "June": true,
+      "July": true,
+      "August": true,
+      "September": false,
+      "October": false,
+      "November": false,
+      "December": false
+    }
+  }
+]

@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
 import com.example.seetha.seasonalclone.adapters.SeasonalAdapter
+import com.example.seetha.seasonalclone.datasource.getProduceItemsFromJSON
 import com.example.seetha.seasonalclone.models.ProduceItem
 
 import kotterknife.bindView
@@ -21,11 +22,8 @@ class MainActivity : AppCompatActivity() {
         val linearLayoutManager = LinearLayoutManager(this)
         recyclerView.layoutManager = linearLayoutManager
 
-        //set up test data
-        val items = listOf(ProduceItem("Apples", "Fruit", "Apples are red."),
-                ProduceItem("Bananas", "Fruit", "Bananas are tasty."),
-                ProduceItem("Broccoli", "Vegetable", "Broccoli looks like little trees."),
-                ProduceItem("Carrot", "Vegetable", "Bunnies like carrots."))
+        //retrieve data from json files
+        val items = getProduceItemsFromJSON(this)
 
         //create adapter
         val adapter = SeasonalAdapter(items)
