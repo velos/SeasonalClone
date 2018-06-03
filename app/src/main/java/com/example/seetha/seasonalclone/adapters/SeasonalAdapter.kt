@@ -6,8 +6,7 @@ import com.example.seetha.seasonalclone.models.ProduceItem
 import views.BrowseItemView
 import views.HeaderItemView
 
-class SeasonalAdapter(private var items: List<ProduceItem>) : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
-
+class SeasonalAdapter(private val items: List<ProduceItem>) : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
     val FRUIT_TYPE = "Fruit"
     val VEGETABLE_TYPE = "Vegetable"
@@ -26,10 +25,8 @@ class SeasonalAdapter(private var items: List<ProduceItem>) : RecyclerView.Adapt
         val displayItems = items.filter { item -> item.display }
         val sortedProduce = mutableListOf<Any>()
         if (displayItems.isNotEmpty()) {
-            sortedProduce.add(0, "Fruits")
+            sortedProduce.add( "Fruits")
             sortedProduce.addAll(displayItems.filter { displayItem -> displayItem.type == FRUIT_TYPE })
-        }
-        if (items.isNotEmpty()) {
             sortedProduce.add("Veggies")
             sortedProduce.addAll(displayItems.filter { displayItem ->
                 listOf(VEGETABLE_TYPE, HERB_TYPE, LEGUME_TYPE, NUT_TYPE).contains(displayItem.type)
