@@ -7,7 +7,8 @@ data class ProduceItem(
         @SerializedName("Name") val name: String,
         @SerializedName("Type") val type: String,
         @SerializedName("Description") val description: String,
-        @SerializedName("imgURL") val imgURL: String
+        @SerializedName("imgURL") val imgURL: String,
+        @SerializedName("Display") val display: Boolean
 
 )
 
