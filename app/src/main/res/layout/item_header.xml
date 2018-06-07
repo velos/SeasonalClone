@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<views.HeaderItemView xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/browseItemView"
     android:layout_width="match_parent"
@@ -19,4 +19,4 @@
         android:textColor="@color/black"
         android:textSize="@dimen/large_text_size" />
 
-</views.HeaderItemView>
+</android.support.design.widget.CoordinatorLayout>
